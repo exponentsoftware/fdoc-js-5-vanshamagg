@@ -1,0 +1,13 @@
+1.
+
+Foreach = used to iterate over an array
+map = to generate a new array from an existing array 
+filter = to extract certain elements out of an array
+
+
+4.
+ I will use filter to find out the single object element
+
+ 5.
+
+ var is hoisted on the top while let and const are not hoisted

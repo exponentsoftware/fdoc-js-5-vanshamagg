@@ -1,0 +1,26 @@
+{
+  "name": "fdoc-js-5-vanshamagg",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc-js-5-vanshamagg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc-js-5-vanshamagg/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc-js-5-vanshamagg#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0"
+  }
+}
